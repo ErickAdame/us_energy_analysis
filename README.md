@@ -8,4 +8,4 @@ The data was imported from CSV located in this repo. Data compared is annual tot
 
 <img src="energyproduction.png">
 <img src="energyproduction2.png">
-<img src="Percent_Change_Production.pngg">
+<img src="Percent_Change_Production.png">
